@@ -1,0 +1,11 @@
+title,company,description,skills
+Data Scientist,Zoho,Build machine learning models analyse large datasets create data visualization dashboards and present insights,python;machine learning;pandas;numpy;scikit-learn;sql;statistics;data visualization
+NLP Engineer,Freshworks,Develop natural language processing pipelines for text classification named entity recognition and chatbots,python;nlp;spacy;nltk;transformers;machine learning;deep learning
+Python Backend Developer,Infosys,Design and develop REST APIs and backend services with databases and version control,python;django;flask;rest api;mysql;git;docker
+Full Stack Developer,TCS,Develop responsive web applications frontend and backend with modern frameworks,javascript;react;node.js;mongodb;html;css;git
+Java Developer,Wipro,Develop enterprise applications using Java Spring Boot and relational databases,java;spring boot;mysql;rest api;git;oop;data structures
+Data Analyst,Cognizant,Analyse business data build reports and dashboards using SQL Excel and BI tools,sql;excel;power bi;tableau;python;data analysis;statistics
+DevOps Engineer,HCL,Automate deployment pipelines manage cloud infrastructure and containers,linux;docker;kubernetes;aws;jenkins;git;ci/cd
+Deep Learning Engineer,Accenture,Train and deploy neural networks for computer vision and speech tasks,python;deep learning;tensorflow;pytorch;opencv;computer vision;numpy
+Frontend Developer,Capgemini,Build user interfaces with component based frameworks and responsive design,html;css;javascript;react;bootstrap;git
+Software Tester,Mindtree,Design test cases perform manual and automation testing report defects,manual testing;automation testing;selenium;java;sql;jira;postman

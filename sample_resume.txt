@@ -1,0 +1,19 @@
+Karthik Raja
+Email: karthik.raja@gmail.com
+Phone: +91 98765 43210
+
+OBJECTIVE
+B.E Computer Science student with 1 year of project experience in machine learning and NLP.
+
+EDUCATION
+B.E Computer Science and Engineering, Government College of Engineering, Krishnagiri (2022-2026)
+
+SKILLS
+Python, SQL, Pandas, NumPy, Scikit-learn, NLTK, spaCy, Machine Learning, Flask, Git, GitHub, MySQL, HTML, CSS
+
+PROJECTS
+Sentiment Analysis of Tweets - used NLTK and TF-IDF with Logistic Regression
+Student Result Portal - built with Flask and MySQL, REST API
+
+EXPERIENCE
+Python Intern - 6 months, worked on data analysis and automation scripts
